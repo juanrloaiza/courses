@@ -1,8 +1,8 @@
 ---
-layout: ../../layouts/BaseLayout.astro
+title: Reglas generales
 ---
 
-## Requisito de asistencia[^1]
+## Requisito de asistencia
 
 La asistencia a clase, junto con los deberes que esta implica, es
 responsabilidad de cada estudiante. Entre estas responsabilidades se
@@ -13,12 +13,12 @@ encuentran:
 -   Preparar las lecturas asignadas
 -   Permitir el desarrollo adecuado de la sesión
 
-Para aprobar este curso se requiere asistir a un 70% de las clases.[^2]
+Para aprobar este curso se requiere asistir a un 70% de las clases.
 El/la estudiante que asista a menos de un 50% reprobará el curso con
 nota 1.0. El/la estudiante que asista a más de un 50% pero menos de un
 70% reprobará el curso con nota 3.0 como máximo. Dentro de las
 inasistencias están contempladas las inasistencias justificadas (tales
-como enfermedades o circunstancias atenuantes[^3]). Lo anterior podrá
+como enfermedades o circunstancias atenuantes). Lo anterior podrá
 modificarse en casos muy calificados, tales como enfermedad prolongada o
 topes en el último semestre de la carrera entre cursos, siempre y cuando
 estos casos sean conversados al comienzo del semestre con el profesor de
@@ -29,6 +29,12 @@ En caso de inasistencia anticipada, se pide que los y las estudiantes se
 comuniquen con anterioridad con el profesor para pactar compromisos para
 el desarrollo exitoso del curso.
 
+> Cada docente podrá establecer un requisito mínimo de asistencia en su asignatura, el cual no podrá ser inferior al requisito general (70%) establecido en el Departamento de Filosofía.
+
+> Los estudiantes inscritos en el programa ''Contigo creciendo" tienen un requisito de asistencia diferido. Revisar el artículo 11 bis del Reglamento Académico del Estudiante de Pregrado. Desde el año 2016, los estudiantes que desempeñan actividades laborales también tienen un requisito de asistencia diferido. Revisar la política de "Registro de estudiantes que desempeñan actividades laborales" que se encuentra en el aula virtual (archivos coordinación académica).
+
+> Se entiende por "circunstancias atenuantes" circunstancias imprevistas (que el estudiante no podría razonablemente haber sabido que estas circunstancias se darían), fuera de su control (que el estudiante no podría razonablemente haber prevenido estas circunstancias), y que tienen un efecto perjudicial importante en su desempeño (las circunstancias tienen un efecto suficientemente perturbador para tener un impacto adverso significativo en la habilidad académica del estudiante).
+
 ## Política de borradores y correcciones
 
 Un aspecto fundamental del aprendizaje es la posibilidad de corregir
@@ -38,7 +44,7 @@ de borradores para la tercera evaluación. Estas políticas están sujetas
 a revisión a lo largo del semestre y podrán aplicarse a discreción del
 profesor.
 
-### []{#anchor-20}Correcciones
+### Correcciones
 
 Los y las estudiantes podrán entregar correcciones de las primeras dos
 evaluaciones del curso. Es *condición necesaria* para presentar una
@@ -78,7 +84,7 @@ estudiantes sobre su evaluación inicial. El profesor hará conocer las
 fechas una vez entregue la retroalimentación a todos y todas las
 estudiantes.
 
-### []{#anchor-20}Borradores
+### Borradores
 
 Los y las estudiantes podrán entregar un borrador de su evaluación final
 del curso. El borrador deberá entregarse a más tardar *dos semanas
@@ -197,28 +203,3 @@ Los documentos citados se encuentran disponibles online:
 -   Reglamento de Conducta y Convivencia de los Estudiantes de la
     Universidad Alberto Hurtado.
     <https://www.uahurtado.cl/pdf/Modificacin_Reglamento_Conducta_y_Convivencia_UAH.pdf>
-
-[^1]:
-    > Cada docente podrá establecer un requisito mínimo de asistencia en
-    > su asignatura, el cual no podrá ser inferior al requisito general
-    > (70%) establecido en el Departamento de Filosofía.
-
-[^2]:
-    > Los estudiantes inscritos en el programa ''Contigo creciendo"
-    > tienen un requisito de asistencia diferido. Revisar el artículo 11
-    > bis del Reglamento Académico del Estudiante de Pregrado. Desde el
-    > año 2016, los estudiantes que desempeñan actividades laborales
-    > también tienen un requisito de asistencia diferido. Revisar la
-    > política de "Registro de estudiantes que desempeñan actividades
-    > laborales" que se encuentra en el aula virtual (archivos
-    > coordinación académica).
-
-[^3]:
-    > Se entiende por "circunstancias atenuantes" circunstancias
-    > imprevistas (que el estudiante no podría razonablemente haber
-    > sabido que estas circunstancias se darían), fuera de su control
-    > (que el estudiante no podría razonablemente haber prevenido estas
-    > circunstancias), y que tienen un efecto perjudicial importante en
-    > su desempeño (las circunstancias tienen un efecto suficientemente
-    > perturbador para tener un impacto adverso significativo en la
-    > habilidad académica del estudiante).
