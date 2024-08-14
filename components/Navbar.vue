@@ -1,4 +1,5 @@
 <template>
+    <p>2024-II</p>
     <nav>
       <ContentNavigation v-slot="{ navigation }">
         <ul>
