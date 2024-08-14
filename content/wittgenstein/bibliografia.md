@@ -1,0 +1,119 @@
+---
+layout: ../../layouts/BaseLayout.astro
+---
+
+## Recursos pedagógicos
+
+### Bibliografía principal
+
+Duhem, P. (1984). Teoría física y experimento (A. Pérez Fustegeras,
+Trad.). *Teorema: Revista internacional de filosofía*, *14*(3--4),
+547--582. (Obra original publicada en 1914)
+
+Duhem, P. (1991). Physical theory and experiment (P. P. Wiener, Trad.).
+En *The aim and structure of physical theory* (pp. 180--218). Princeton
+University Press. (Obra original publicada en 1914)
+
+Feyerabend, P. (1993). Ch. 1-4. En *Against Method* (3rd ed, pp. 14-38).
+Verso. (Obra original publicada en 1975)
+
+[]{#anchor-7}Feyerabend, P. (2010). Caps. 1-4 (D. Ribes, Trad.). En
+*Tratado contra el método: esquema de una teoría anarquista del
+conocimiento* (6ª ed, pp. 7-37). Tecnos. (Obra original publicada en
+1975)
+
+Goodman, N. (1983). The New Riddle of Induction. En *Fact, Fiction, and
+Forecast* (4.ª ed., pp. 59-83). Harvard University Press. (Obra original
+publicada en 1979)
+
+Hahn, H., Neurath, O., & Carnap, R. (2016). La Concepción Científica Del
+Mundo: El Círculo de Viena. En T. Mormann & Á. Peláez (Eds.), *El
+Empirismo Lógico: Textos Básicos*. Universidad del Rosario y Universidad
+Autónoma Metropolitana Unidad Cuajimalpa. (Obra original publicada en
+1929)
+
+Harding, S. G. (1986). Gender and science: Two problematic concepts. En
+*The science question in feminism* (pp. 30--57). Cornell university
+press.
+
+[]{#anchor-8}Harding, S. G. (1996). El género y la ciencia: dos
+conceptos problemáticos (P. Manzano, Trad.). En *Ciencia y feminismo*
+(pp. 28-51). Morata. (Obra original publicada en 1986)
+
+Hempel, C. G. (1945). Studies in the Logic of Confirmation (I.). *Mind*,
+*LIV*(213), 1-26.
+
+[]{#anchor-9}Hempel, C. G. (1996). Estudios Sobre La Lógica de La
+Confirmación. En *La Explicación Científica: Estudios Sobre la Filosofía
+de la Ciencia* (secciones 1-6, pp. 13-35). Paidós. (Obra original
+publicada en 1945)
+
+Hempel, C. G. (1996). La lógica de la explicación. En *La explicación
+científica: Estudios sobre la filosofía de la ciencia* (partes I y III,
+pp. 247--259, 265-279). Paidós.
+
+[]{#anchor-10}Hempel, C. G., & Oppenheim, P. (1948). Studies in the
+Logic of Explanation (parts I and III). *Philosophy of Science*,
+*15*(2), 135-146, 152-164.
+
+Kuhn, T. (1996). Ch. III & Ch. VI. *The Structure of Scientific
+Revolutions*. The University of Chicago Press. (Obra original publicada
+en 1962)
+
+Kuhn, T. (2012). Caps. III & VI. *La estructura de la revoluciones
+científicas.* Fondo de Cultura Económica. (Obra original publicada en
+1962)
+
+Kuhn, T. S. (1977). Objectivity, value judgment, and theory choice. En
+*The essential tension: Selected studies in scientific tradition and
+change* (pp. 320--339). The University of Chicago Press.
+
+Kuhn, T. S. (1987). Objetividad, juicios de valor y elección de teoría
+(R. Helter, Trad.). En *La tensión esencial: Estudios selectos sobre la
+tradición y el cambio en el ámbito de la ciencia*. Fondo de Cultura
+Economica. (Obra original publicada en 1973)
+
+Lakatos, I. (1998). La falsación y la metodología de los programas de
+investigación científica (secciones 1 y 2). En J. Worrall, G. Currie, &
+J. C. Zapatero (Eds.), *La metodología de los programas de investigación
+científica* (pp. 17-65). Alianza. (Obra original publicada en 1978)
+
+Lakatos, I. (1999). Falsification and the Methodology of Scientific
+Research Programmes. En J. Worrall & G. Currie (Eds.), *The Methodology
+of Scientific Research Programmes* (sections 1 and 2, pp. 8-46).
+Cambridge University Press. (Obra original publicada en 1978)
+
+[]{#anchor-11}Longino, H. E. (1990). Evidence and Hypothesis. En
+*Science as Social Knowledge: Values and Objectivity in Scientific
+Inquiry* (pp. 38-61). Princeton University Press.
+
+[]{#anchor-12}[]{#anchor-13}Machamer, P., Darden, L., & Craver, C. F.
+(2000). Thinking about Mechanisms. *Philosophy of Science*, *67*(1),
+1-25.
+
+[]{#anchor-14}[]{#anchor-15}Popper, K. R. (2017). Panorama de algunos
+problemas fundamentales (V. Sánchez de Zavala, Trad.). En *La lógica de
+la investigación científica* (2.ª ed., pp. 27-47). Tecnos. (Obra
+original publicada en 1935)
+
+Quine, W. V. O. (1961). Two dogmas of empiricism. En *From a logical
+point of view* (2nd ed., pp. 20--46). Harper & Row. (Obra original
+publicada en 1951)
+
+Quine, W. V. O. (2002). Dos dogmas del empirismo (M. Sacristán, Trad.).
+En *Desde un punto de vista lógico* (2da ed., pp. 61--92). Paidós. (Obra
+original publicada en 1951)
+
+### []{#anchor-16}[]{#anchor-17}[]{#anchor-18}[]{#anchor-19}Bibliografía auxiliar
+
+Bueter, A. (2024). *Feminist philosophy of science*. Cambridge
+University Press.
+
+Chalmers, A. (2010). *¿Qué es esa cosa llamada ciencia?* (E. Pérez
+Sedeño, Trad.). Siglo XXI. (Obra original publicada en 1976)
+
+Díez, J. A., & Moulines, C. U. (1999). *Fundamentos de filosofía de la
+ciencia* (2a ed.). Ariel. (Obra original publicada en 1997)
+
+Godfrey-Smith, P. (2003). *Theory and Reality: An Introduction to the
+Philosophy of Science*. University of Chicago Press.
