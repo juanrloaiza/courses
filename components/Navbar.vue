@@ -3,8 +3,10 @@
       <BackpackIcon/>
       <p class="is-size-5">Juan R. Loaiza</p>
       <p>2024-II</p>
+      
     </div>
     <nav>
+      <NuxtLink to="/">Inicio</NuxtLink>
       <ContentNavigation v-slot="{ navigation }">
           <ul v-for="link of navigation" :key="link._path" class="nav-link">
             <li v-for="sublink of link.children" >
