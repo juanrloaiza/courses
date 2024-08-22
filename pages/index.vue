@@ -24,6 +24,15 @@
                 <ButtonCourseFolder class="m-4" folderLink="https://cloud.juanrloaiza.com/s/HnMn5CmDaEosXKo" />
             </div>
 
+            <div class="column pt-6">
+                <NuxtLink to="/wittgenstein"><h2 class="subtitle mb-2">Seminario: Wittgenstein</h2></NuxtLink>
+
+                <p><strong>Horario:</strong> Viernes 08:30-11:20</p>
+
+                <p><strong>Sala:</strong> D11</p>
+
+            </div>
+
         </div>
     </NuxtLayout>
 </template>
