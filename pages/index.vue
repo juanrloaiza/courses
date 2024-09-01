@@ -31,6 +31,9 @@
 
                 <p><strong>Sala:</strong> D11</p>
 
+                <ButtonCourseFolder class="m-4" folderLink="https://cloud.juanrloaiza.com/s/TLsK5Yesq9sLCn9" />
+
+
             </div>
 
         </div>
